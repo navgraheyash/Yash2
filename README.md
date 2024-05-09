@@ -1,2 +1,2 @@
 # Yash2
-mern stack project
+(yash navgrahe) mern stack project 
